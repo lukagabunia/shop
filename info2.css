@@ -1,0 +1,36 @@
+
+.container{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+.newarrival{
+    background: green;
+    width: 50px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.col-md-7 h2{
+    color: #555;
+}
+.price{
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+input{
+    border:1px solid #ccc;
+    font-weight: bold;
+    height: 35px;
+    text-align: center;
+    width: 40px;
+}
+body{
+    background: url(https://i.ytimg.com/vi/tuPHm37D0h0/maxresdefault.jpg);
+     background-size:cover;
+     background-attachment:fixed ;
+ }
+ 
+ 

@@ -1,0 +1,36 @@
+body{
+    background: url(https://i.ytimg.com/vi/tuPHm37D0h0/maxresdefault.jpg);
+     background-size:cover;
+     background-attachment:fixed ;
+}
+table{
+    background-color: orange;
+    border: 8px solid white;
+    border-radius: 25px;
+}
+#email{
+    width:300px;
+    height: 32px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 3px solid white;
+    color:black;
+    font-size: 20px;
+}
+#password{
+    width:300px;
+    height: 32px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 3px solid white;
+    color:black;
+    font-size: 20px;
+}
+#loginbutton{
+    width: 250px;
+    background-color: brown;
+    height:35px;
+    font-size: 20px;
+}
